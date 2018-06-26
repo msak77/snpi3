@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_state" table="x_snc_hhd_hhd_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In use</label>
+            <language>en</language>
+            <name>x_snc_hhd_hhd_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-25 13:50:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a08550ab9cbe13007f440a3d56062521</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-25 13:50:21</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>On order</label>
+            <language>en</language>
+            <name>x_snc_hhd_hhd_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-25 13:50:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e08550ab9cbe13007f440a3d56062522</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-25 13:50:22</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In stock</label>
+            <language>en</language>
+            <name>x_snc_hhd_hhd_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-25 13:50:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>608550ab9cbe13007f440a3d56062523</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-25 13:50:22</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Retired</label>
+            <language>en</language>
+            <name>x_snc_hhd_hhd_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-25 13:50:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec8550ab9cbe13007f440a3d56062523</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-25 13:50:22</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Missing</label>
+            <language>en</language>
+            <name>x_snc_hhd_hhd_table</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-25 13:50:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c8550ab9cbe13007f440a3d56062524</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-25 13:50:22</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In transit</label>
+            <language>en</language>
+            <name>x_snc_hhd_hhd_table</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-25 13:50:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a08550ab9cbe13007f440a3d56062532</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-25 13:50:22</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In maintenance</label>
+            <language>en</language>
+            <name>x_snc_hhd_hhd_table</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-25 13:50:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>208550ab9cbe13007f440a3d56062533</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-25 13:50:22</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_state</element>
+            <name>x_snc_hhd_hhd_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-25 13:50:21</sys_created_on>
+            <sys_id>ac8550ab9cbe13007f440a3d56062521</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_state</sys_name>
+            <sys_package display_value="HHD" source="x_snc_hhd">43a2d82b9cbe13007f440a3d560625ae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HHD">43a2d82b9cbe13007f440a3d560625ae</sys_scope>
+            <sys_update_name>sys_choice_x_snc_hhd_hhd_table_u_state</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-25 13:50:21</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

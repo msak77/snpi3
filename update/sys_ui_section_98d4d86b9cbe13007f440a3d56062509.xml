@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="98d4d86b9cbe13007f440a3d56062509" sys_domain="global" table="x_snc_hhd_hhd_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_hhd_identifier</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-25 13:50:22</sys_created_on>
+            <sys_id>a48550ab9cbe13007f440a3d5606253b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hhd_hhd_table" sys_domain="global" view="Default view">98d4d86b9cbe13007f440a3d56062509</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-25 13:50:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_system_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-25 13:50:22</sys_created_on>
+            <sys_id>288550ab9cbe13007f440a3d5606253b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hhd_hhd_table" sys_domain="global" view="Default view">98d4d86b9cbe13007f440a3d56062509</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-25 13:50:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_prototype_evangelist</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-25 13:50:22</sys_created_on>
+            <sys_id>a88550ab9cbe13007f440a3d5606253b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hhd_hhd_table" sys_domain="global" view="Default view">98d4d86b9cbe13007f440a3d56062509</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-25 13:50:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-25 13:50:22</sys_created_on>
+            <sys_id>2c8550ab9cbe13007f440a3d5606253b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hhd_hhd_table" sys_domain="global" view="Default view">98d4d86b9cbe13007f440a3d56062509</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-25 13:50:22</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_state</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-25 13:50:22</sys_created_on>
+            <sys_id>ac8550ab9cbe13007f440a3d5606253b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hhd_hhd_table" sys_domain="global" view="Default view">98d4d86b9cbe13007f440a3d56062509</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-25 13:50:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_unlock_code</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-25 13:50:22</sys_created_on>
+            <sys_id>208550ab9cbe13007f440a3d5606253c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hhd_hhd_table" sys_domain="global" view="Default view">98d4d86b9cbe13007f440a3d56062509</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-25 13:50:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_active_until</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-25 13:50:22</sys_created_on>
+            <sys_id>a08550ab9cbe13007f440a3d5606253c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hhd_hhd_table" sys_domain="global" view="Default view">98d4d86b9cbe13007f440a3d56062509</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-25 13:50:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_hhd_hhd_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-25 13:47:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98d4d86b9cbe13007f440a3d56062509</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_hhd_hhd_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HHD" source="x_snc_hhd">43a2d82b9cbe13007f440a3d560625ae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HHD">43a2d82b9cbe13007f440a3d560625ae</sys_scope>
+            <sys_update_name>sys_ui_section_98d4d86b9cbe13007f440a3d56062509</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-25 13:47:21</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

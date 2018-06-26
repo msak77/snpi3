@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="HHD Table" max_length="40" name="x_snc_hhd_hhd_table" type="collection">
+        <element label="Active Until" max_length="40" name="u_active_until" type="glide_date"/>
+        <element display="true" label="HHD Identifier" max_length="40" name="u_hhd_identifier" type="string"/>
+        <element default="javascript:gs.getUserID()" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Prototype Evangelist" max_length="32" name="u_prototype_evangelist" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element choice="1" label="State" max_length="40" name="u_state" type="choice">
+            <choice>
+                <element label="In use" sequence="0" value="1"/>
+                <element label="On order" sequence="1" value="2"/>
+                <element label="In stock" sequence="2" value="6"/>
+                <element label="Retired" sequence="3" value="7"/>
+                <element label="Missing" sequence="4" value="8"/>
+                <element label="In transit" sequence="5" value="9"/>
+                <element label="In maintenance" sequence="6" value="10"/>
+            </choice>
+        </element>
+        <element label="System Name" max_length="40" name="u_system_name" type="string"/>
+        <element label="Unlock Code" max_length="40" name="u_unlock_code" type="string"/>
+        <index name="index">
+            <element name="u_prototype_evangelist"/>
+        </index>
+    </element>
+</database>
